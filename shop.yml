@@ -1,0 +1,1876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-10-01 21:42">
+  <shop>
+    <categories>
+      <category id="1">Главная</category>
+      <category id="4782" parentId="1">Бытовая техника</category>
+      <category id="173999" parentId="4782">Холодильники</category>
+      <category id="174001" parentId="1">Смартфоны, ТВ и электроника</category>
+      <category id="174002" parentId="174001">Умные часы</category>
+      <category id="174003" parentId="174001">Смартфоны</category>
+      <category id="174004" parentId="1">Компьютеры и периферия</category>
+      <category id="174006" parentId="174004">Ноутбуки</category>
+      <category id="174007" parentId="174004">Планшеты</category>
+      <category id="174008" parentId="1">Мебель</category>
+      <category id="174013" parentId="1">Дом и сад</category>
+      <category id="174014" parentId="174013">Культиваторы</category>
+      <category id="174015" parentId="174013">Триммеры</category>
+      <category id="174017" parentId="1">Авто и мото</category>
+      <category id="174018" parentId="174017">Автомагнитолы</category>
+      <category id="174019" parentId="174017">Автосигнализации</category>
+      <category id="174020" parentId="174017">Автомобильные аккумуляторы</category>
+      <category id="174021" parentId="1">Товары для детей</category>
+      <category id="174022" parentId="174021">Автокресла</category>
+      <category id="174023" parentId="174021">Коляски</category>
+      <category id="174024" parentId="1">Спорт</category>
+      <category id="174025" parentId="174024">Велосипеды</category>
+      <category id="174026" parentId="174024">Самокаты</category>
+      <category id="174027" parentId="4782">Телевизоры</category>
+      <category id="174028" parentId="174008">Офисные кресла и стулья</category>
+      <category id="174029" parentId="174004">Видеокарты</category>
+      <category id="174030" parentId="174008">Матрасы</category>
+    </categories>
+    <offers>
+      <offer id="5411">
+        <name>Встраиваемый холодильник BEKO CBI 7771</name>
+        <price>2399</price>
+        <categoryId>173999</categoryId>
+        <url>https://demo.beseller.com/bytova/xolodilniki/vstraivaemyy_holodilnik_beko_cbi_7771e3b39d</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-140042-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-140042-2.webp</picture>
+        <barcode>140042</barcode>
+      </offer>
+      <offer id="5412">
+        <name> Холодильник Bosch KGE39XL20R</name>
+        <price>1999</price>
+        <categoryId>173999</categoryId>
+        <url>https://demo.beseller.com/bytova/xolodilniki/holodilnik_bosch_kge39xl20r649baf</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-214072-1.webp</picture>
+        <barcode>214072</barcode>
+      </offer>
+      <offer id="5413">
+        <name>Встраиваемый холодильник Liebherr IKB 2320 Premium BioFresh</name>
+        <price>2599</price>
+        <categoryId>173999</categoryId>
+        <url>https://demo.beseller.com/bytova/xolodilniki/vstraivaemyy_holodilnik_liebherr_ikb_2320_premium_biofresh9051c5</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-324989-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-324989-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-324989-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-324989-4.webp</picture>
+        <barcode>324989</barcode>
+      </offer>
+      <offer id="5414">
+        <name>Встраиваемый холодильник AEG SCS 61800 FF</name>
+        <price>1999</price>
+        <categoryId>173999</categoryId>
+        <url>https://demo.beseller.com/bytova/xolodilniki/vstraivaemyy_holodilnik_aeg_scs_61800_ff4a749b</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-353699-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-353699-2.webp</picture>
+        <barcode>353699</barcode>
+      </offer>
+      <offer id="5415">
+        <name>Холодильник ATLANT МХМ 2826-00</name>
+        <price>1999</price>
+        <categoryId>173999</categoryId>
+        <url>https://demo.beseller.com/bytova/xolodilniki/holodilnik_atlant_mhm_2826_00f8fc66</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-354536-1.webp</picture>
+        <barcode>354536</barcode>
+      </offer>
+      <offer id="5416">
+        <name>Встраиваемый холодильник Ascoli ADRF229BI</name>
+        <price>2099</price>
+        <categoryId>173999</categoryId>
+        <url>https://demo.beseller.com/bytova/xolodilniki/vstraivaemyy_holodilnik_ascoli_adrf229bid872b0</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-404383-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-404383-2.webp</picture>
+        <barcode>404383</barcode>
+      </offer>
+      <offer id="5417">
+        <name> Mitsubishi Electric MR-FR51H-SWH-R</name>
+        <price>1999</price>
+        <categoryId>173999</categoryId>
+        <url>https://demo.beseller.com/bytova/xolodilniki/mitsubishi_electric_mr_fr51h_swh_r8c381d</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-588377-1.webp</picture>
+        <barcode>588377</barcode>
+      </offer>
+      <offer id="5418">
+        <name>Однокамерный холодильник Kraft BR-50I</name>
+        <price>2299</price>
+        <categoryId>173999</categoryId>
+        <url>https://demo.beseller.com/bytova/xolodilniki/odnokamernyy_holodilnik_kraft_br_50i126831</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-652694-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-652694-2.webp</picture>
+        <barcode>652694</barcode>
+      </offer>
+      <offer id="5419">
+        <name>Однокамерный холодильник Korting KSI 1221</name>
+        <price>2299</price>
+        <categoryId>173999</categoryId>
+        <url>https://demo.beseller.com/bytova/xolodilniki/odnokamernyy_holodilnik_korting_ksi_12217ada7c</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-917558-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-917558-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-917558-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-917558-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-917558-5.webp</picture>
+        <barcode>917558</barcode>
+      </offer>
+      <offer id="5420">
+        <name>Телевизор Philips 40PFL8008S/60</name>
+        <price>2100</price>
+        <categoryId>174027</categoryId>
+        <url>https://demo.beseller.com/bytova/televizoryi/televizor_philips_40pfl8008s_60516a91</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-10.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-11.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-180045-12.webp</picture>
+        <barcode>180045</barcode>
+      </offer>
+      <offer id="5421">
+        <name>Телевизор Panasonic TX-49ES400E</name>
+        <price>1950</price>
+        <categoryId>174027</categoryId>
+        <url>https://demo.beseller.com/bytova/televizoryi/televizor_panasonic_tx_49es400e9c3505</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-352010-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-352010-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-352010-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-352010-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-352010-5.webp</picture>
+        <barcode>352010</barcode>
+      </offer>
+      <offer id="5422">
+        <name>Телевизор Harper 40F6750TS</name>
+        <price>2000</price>
+        <categoryId>174027</categoryId>
+        <url>https://demo.beseller.com/bytova/televizoryi/televizor_harper_40f6750tsb68293</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-415372-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-415372-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-415372-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-415372-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-415372-5.webp</picture>
+        <barcode>415372</barcode>
+      </offer>
+      <offer id="5423">
+        <name>Телевизор Erisson 32HLE21T2SM</name>
+        <price>1950</price>
+        <categoryId>174027</categoryId>
+        <url>https://demo.beseller.com/bytova/televizoryi/televizor_erisson_32hle21t2smf48f92</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-448356-1.webp</picture>
+        <barcode>448356</barcode>
+      </offer>
+      <offer id="5424">
+        <name>Телевизор Erisson 28HLE19T2SM</name>
+        <price>2200</price>
+        <categoryId>174027</categoryId>
+        <url>https://demo.beseller.com/bytova/televizoryi/televizor_erisson_28hle19t2sm913e2e</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-463435-1.webp</picture>
+        <barcode>463435</barcode>
+      </offer>
+      <offer id="5425">
+        <name>Телевизор Harper 40F720TS</name>
+        <price>2000</price>
+        <categoryId>174027</categoryId>
+        <url>https://demo.beseller.com/bytova/televizoryi/televizor_harper_40f720ts075a1f</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-494887-1.webp</picture>
+        <barcode>494887</barcode>
+      </offer>
+      <offer id="5426">
+        <name>Телевизор BBK 32LEX-7290/TS2C</name>
+        <price>2000</price>
+        <categoryId>174027</categoryId>
+        <url>https://demo.beseller.com/bytova/televizoryi/televizor_bbk_32lex_7290_ts2c681e53</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-536487-1.webp</picture>
+        <barcode>536487</barcode>
+      </offer>
+      <offer id="5427">
+        <name>Телевизор Irbis 50S01UD321B</name>
+        <price>1899</price>
+        <categoryId>174027</categoryId>
+        <url>https://demo.beseller.com/bytova/televizoryi/televizor_irbis_50s01ud321b27a4e0</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-545105-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-545105-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-545105-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-545105-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-545105-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-545105-6.webp</picture>
+        <barcode>545105</barcode>
+      </offer>
+      <offer id="5428">
+        <name>Телевизор Hisense 75U7KQ</name>
+        <price>2050</price>
+        <categoryId>174027</categoryId>
+        <url>https://demo.beseller.com/bytova/televizoryi/televizor_hisense_75u7kqea7c3a</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-775049-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-775049-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-775049-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-775049-4.webp</picture>
+        <barcode>775049</barcode>
+      </offer>
+      <offer id="5430">
+        <name>Умные часы Amazfit Bip U Pro (черный)</name>
+        <price>649</price>
+        <categoryId>174002</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/umnyie-chasyi/umnye_chasy_amazfit_bip_u_pro__chernyy03dafb</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-553636-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-553636-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-553636-3.webp</picture>
+        <barcode>553636</barcode>
+      </offer>
+      <offer id="5431">
+        <name>Умные часы Apple Watch SE Nike 44mm Aluminum Space Gray (MYYK2)</name>
+        <price>599</price>
+        <categoryId>174002</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/umnyie-chasyi/umnye_chasy_apple_watch_se_nike_44mm_aluminum_space_gray__myyk2ffe6af</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-561033-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-561033-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-561033-3.webp</picture>
+        <barcode>561033</barcode>
+      </offer>
+      <offer id="5432">
+        <name>Гибридные умные часы Amazfit T-Rex Pro (черный)</name>
+        <price>619</price>
+        <categoryId>174002</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/umnyie-chasyi/gibridnye_umnye_chasy_amazfit_t_rex_pro__chernyy76b8b8</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-584945-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-584945-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-584945-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-584945-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-584945-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-584945-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-584945-7.webp</picture>
+        <barcode>584945</barcode>
+      </offer>
+      <offer id="5433">
+        <name>Amazfit Bip 3 Pro</name>
+        <price>439</price>
+        <categoryId>174002</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/umnyie-chasyi/amazfit_bip_3_prob6e69f</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-646635-1.webp</picture>
+        <barcode>646635</barcode>
+      </offer>
+      <offer id="5434">
+        <name>Cмарт-часы Maimo Watch R GPS (синий)</name>
+        <price>489</price>
+        <categoryId>174002</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/umnyie-chasyi/cmart_chasy_maimo_watch_r_gps__siniy37a626</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-666848-1.webp</picture>
+        <barcode>666848</barcode>
+      </offer>
+      <offer id="5435">
+        <name>Умные часы Dizo Watch 2 (черный)</name>
+        <price>579</price>
+        <categoryId>174002</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/umnyie-chasyi/umnye_chasy_dizo_watch_2__chernyyed2ca4</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-715012-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-715012-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-715012-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-715012-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-715012-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-715012-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-715012-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-715012-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-715012-9.webp</picture>
+        <barcode>715012</barcode>
+      </offer>
+      <offer id="5436">
+        <name>Умные часы Garmin Instinct Crossover Solar Tactical Edition 45 мм (черный)</name>
+        <price>549</price>
+        <categoryId>174002</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/umnyie-chasyi/umnye_chasy_garmin_instinct_crossover_solar_tactical_edition_45_mm__chernyy99813c</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-793975-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-793975-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-793975-3.webp</picture>
+        <barcode>793975</barcode>
+      </offer>
+      <offer id="5437">
+        <name>Умные часы Haylou Solar Pro (черный)</name>
+        <price>639</price>
+        <categoryId>174002</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/umnyie-chasyi/umnye_chasy_haylou_solar_pro__chernyy9a05c1</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819572-1.webp</picture>
+        <barcode>819572</barcode>
+      </offer>
+      <offer id="5438">
+        <name>Умные часы Apple Watch Series 10 42 мм (алюминиевый корпус, розовое золото/сливовый, нейлоновый ремешок)</name>
+        <price>419</price>
+        <categoryId>174002</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/umnyie-chasyi/umnye_chasy_apple_watch_series_10_42_mm__alyuminievyy_korpus__rozovoe_zoloto_slivovyy__neylonovyy_re37f5c4</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-876292-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-876292-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-876292-3.webp</picture>
+        <barcode>876292</barcode>
+      </offer>
+      <offer id="5440">
+        <name>Смартфон Lenovo A1000</name>
+        <price>2000</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_lenovo_a1000b2ec83</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-10.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-11.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-253159-12.webp</picture>
+        <barcode>253159</barcode>
+      </offer>
+      <offer id="5441">
+        <name>Смартфон LG G5 SE Titan (H840)</name>
+        <price>1800</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_lg_g5_se_titan__h840361747</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-323499-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-323499-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-323499-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-323499-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-323499-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-323499-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-323499-7.webp</picture>
+        <barcode>323499</barcode>
+      </offer>
+      <offer id="5442">
+        <name>Смартфон Doogee BL5000 Blue</name>
+        <price>1300</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_doogee_bl5000_blue86413b</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-340898-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-340898-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-340898-3.webp</picture>
+        <barcode>340898</barcode>
+      </offer>
+      <offer id="5444">
+        <name>Смартфон Meizu Note 9 4Gb/128Gb Blue</name>
+        <price>1650</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_meizu_note_9_4gb_128gb_blue753ef3</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-407520-1.webp</picture>
+        <barcode>407520</barcode>
+      </offer>
+      <offer id="5445">
+        <name>Смартфон Meizu 16Xs 6Gb/64Gb Black (китайская версия)</name>
+        <price>1550</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_meizu_16xs_6gb_64gb_black__kitayskaya_versiya9a3bf8</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-416661-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-416661-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-416661-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-416661-4.webp</picture>
+        <barcode>416661</barcode>
+      </offer>
+      <offer id="5446">
+        <name>Смартфон Inoi A52 Lite 32GB (синий)</name>
+        <price>1700</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_inoi_a52_lite_32gb__siniycabc7c</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630450-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630450-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630450-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630450-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630450-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630450-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630450-7.webp</picture>
+        <barcode>630450</barcode>
+      </offer>
+      <offer id="5447">
+        <name>Смартфон Doogee Blade 20 Turbo 8GB/256GB (черный)</name>
+        <price>1400</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_doogee_blade_20_turbo_8gb_256gb__chernyyb88309</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-960709-1.webp</picture>
+        <barcode>960709</barcode>
+      </offer>
+      <offer id="5448">
+        <name>Смартфон Motorola Moto G 5G (2024) 4GB/128GB (темно-зеленый)</name>
+        <price>1250</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_motorola_moto_g_5g__2024__4gb_128gb__temno_zelenyyc73250</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-978499-1.webp</picture>
+        <barcode>978499</barcode>
+      </offer>
+      <offer id="5449">
+        <name>Смартфон Huawei Pura 80 Pro LMR-LX9 12GB/512GB (черный)</name>
+        <price>1950</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_huawei_pura_80_pro_lmr_lx9_12gb_512gb__chernyyf36925</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-984804-1.webp</picture>
+        <barcode>984804</barcode>
+      </offer>
+      <offer id="5452">
+        <name>Планшет Acer Switch Alpha 12 SA5-271 256GB Silver (NT.LCDER.015)</name>
+        <price>1200</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/planshet_acer_switch_alpha_12_sa5_271_256gb_silver__nt_lcder_015c30e03</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-302441-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-302441-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-302441-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-302441-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-302441-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-302441-6.webp</picture>
+        <barcode>302441</barcode>
+      </offer>
+      <offer id="5456">
+        <name>MatePad T 8 Kob2-L09 2GB/16GB LTE Blue</name>
+        <price>800</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/matepad_t_8_kob2_l09_2gb_16gb_lte_blue285472</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-767777-10.webp</picture>
+        <barcode>767777</barcode>
+      </offer>
+      <offer id="5457">
+        <name>Планшет Doogee T20 mini Kid 4GB/128GB LTE (желтый)</name>
+        <price>1050</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/planshet_doogee_t20_mini_kid_4gb_128gb_lte__zheltyy6c7669</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819587-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819587-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819587-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819587-4.webp</picture>
+        <barcode>819587</barcode>
+      </offer>
+      <offer id="5458">
+        <name>Планшет Samsung Galaxy Tab S10 FE+ Wi-Fi SM-X620 8GB/128GB (серый)</name>
+        <price>850</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/planshet_samsung_galaxy_tab_s10_fe__wi_fi_sm_x620_8gb_128gb__seryy6b35c2</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-10.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-952176-11.webp</picture>
+        <barcode>952176</barcode>
+      </offer>
+      <offer id="5459">
+        <name>Планшет Blackview Mega 8 12GB/256GB (серый)</name>
+        <price>900</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/planshet_blackview_mega_8_12gb_256gb__seryy5afcfe</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-963522-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-963522-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-963522-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-963522-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-963522-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-963522-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-963522-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-963522-8.webp</picture>
+        <barcode>963522</barcode>
+      </offer>
+      <offer id="5462">
+        <name>Ноутбук Asus X560UD-BQ054</name>
+        <price>1999</price>
+        <categoryId>174006</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/noutbuki/noutbuk_asus_x560ud_bq0547a7f5d</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-393321-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-393321-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-393321-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-393321-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-393321-5.webp</picture>
+        <barcode>393321</barcode>
+      </offer>
+      <offer id="5463">
+        <name>Ноутбук Dell Alienware M17 (M17-8352)</name>
+        <price>2400</price>
+        <categoryId>174006</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/noutbuki/noutbuk_dell_alienware_m17__m17_8352fddbdd</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-418798-10.webp</picture>
+        <barcode>418798</barcode>
+      </offer>
+      <offer id="5464">
+        <name>Ноутбук ASUS VivoBook S431FA-AM001R</name>
+        <price>2600</price>
+        <categoryId>174006</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/noutbuki/noutbuk_asus_vivobook_s431fa_am001r31f6dc</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-548545-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-548545-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-548545-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-548545-4.webp</picture>
+        <barcode>548545</barcode>
+      </offer>
+      <offer id="5465">
+        <name>Ноутбук Dell XPS 13 9310 (9310-2477)</name>
+        <price>2840</price>
+        <categoryId>174006</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/noutbuki/noutbuk_dell_xps_13_9310__9310_247700fd95</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-601731-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-601731-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-601731-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-601731-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-601731-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-601731-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-601731-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-601731-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-601731-9.webp</picture>
+        <barcode>601731</barcode>
+      </offer>
+      <offer id="5466">
+        <name>Ноутбук Dell Precision 15 7560-7333</name>
+        <price>2500</price>
+        <categoryId>174006</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/noutbuki/noutbuk_dell_precision_15_7560_7333f75bfe</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630124-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630124-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630124-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630124-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630124-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630124-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630124-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630124-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630124-9.webp</picture>
+        <barcode>630124</barcode>
+      </offer>
+      <offer id="5467">
+        <name>Игровой ноутбук Asus ROG FLOW X16 GV601RW-M5048W</name>
+        <price>2340</price>
+        <categoryId>174006</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/noutbuki/igrovoy_noutbuk_asus_rog_flow_x16_gv601rw_m5048w4bd34b</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-10.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-11.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-654091-12.webp</picture>
+        <barcode>654091</barcode>
+      </offer>
+      <offer id="5468">
+        <name>Ноутбук Digma EVE 15 P418 NN5158CXW02</name>
+        <price>2500</price>
+        <categoryId>174006</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/noutbuki/noutbuk_digma_eve_15_p418_nn5158cxw02ccc99e</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-800081-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-800081-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-800081-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-800081-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-800081-5.webp</picture>
+        <barcode>800081</barcode>
+      </offer>
+      <offer id="5469">
+        <name>Игровой ноутбук Acer Nitro V 16 ANV16-41-R9PM NH.QRUCD.007</name>
+        <price>2499</price>
+        <categoryId>174006</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/noutbuki/igrovoy_noutbuk_acer_nitro_v_16_anv16_41_r9pm_nh_qrucd_007819087</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956835-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956835-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956835-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956835-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956835-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956835-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956835-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956835-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956835-9.webp</picture>
+        <barcode>956835</barcode>
+      </offer>
+      <offer id="5470">
+        <name>Самокат NOVATRACK Plotter X61897</name>
+        <price>150</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/samokat_novatrack_plotter_x61897f7ba36</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-236796-1.webp</picture>
+        <barcode>236796</barcode>
+      </offer>
+      <offer id="5471">
+        <name>Самокат iTrike Maxi</name>
+        <price>200</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/samokat_itrike_maxi911820</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-264068-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-264068-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-264068-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-264068-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-264068-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-264068-6.webp</picture>
+        <barcode>264068</barcode>
+      </offer>
+      <offer id="5472">
+        <name>Самокат Corol L-306</name>
+        <price>160</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/samokat_corol_l_306dae989</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-268929-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-268929-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-268929-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-268929-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-268929-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-268929-6.webp</picture>
+        <barcode>268929</barcode>
+      </offer>
+      <offer id="5473">
+        <name>Самокат JD Bug TC66 Kidz Swayer Blue</name>
+        <price>150</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/samokat_jd_bug_tc66_kidz_swayer_blue4978ba</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-301516-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-301516-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-301516-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-301516-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-301516-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-301516-6.webp</picture>
+        <barcode>301516</barcode>
+      </offer>
+      <offer id="5474">
+        <name>Самокат Ateox Move 230 black</name>
+        <price>170</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/samokat_ateox_move_230_blackb2c975</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-398773-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-398773-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-398773-3.webp</picture>
+        <barcode>398773</barcode>
+      </offer>
+      <offer id="5475">
+        <name>Самокат Novatrack Pixel BL Multicolor 110A.PIXEL.MC20</name>
+        <price>150</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/samokat_novatrack_pixel_bl_multicolor_110a_pixel_mc205a69e5</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-503059-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-503059-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-503059-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-503059-4.webp</picture>
+        <barcode>503059</barcode>
+      </offer>
+      <offer id="5476">
+        <name>Самокат Cosmoride Blot 2020 (голубой)</name>
+        <price>150</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/samokat_cosmoride_blot_2020__goluboy52ea26</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-634280-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-634280-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-634280-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-634280-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-634280-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-634280-6.webp</picture>
+        <barcode>634280</barcode>
+      </offer>
+      <offer id="5477">
+        <name>Самокат 21st scooter Maxi (салатовый)</name>
+        <price>170</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/samokat_21st_scooter_maxi__salatovyy1ec18b</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-827763-1.webp</picture>
+        <barcode>827763</barcode>
+      </offer>
+      <offer id="5478">
+        <name>Cамокат Tech Team 145R Evolution Lux 2024 (красный)</name>
+        <price>150</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/camokat_tech_team_145r_evolution_lux_2024__krasnyyb98a47</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-10.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-837465-11.webp</picture>
+        <barcode>837465</barcode>
+      </offer>
+      <offer id="5479">
+        <name>Cамокат Tech Team Compass 2024 (селадон/фиолетовый)</name>
+        <price>160</price>
+        <categoryId>174026</categoryId>
+        <url>https://demo.beseller.com/sport/samokatyi/camokat_tech_team_compass_2024__seladon_fioletovyy5b25b7</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956892-1.webp</picture>
+        <barcode>956892</barcode>
+      </offer>
+      <offer id="5480">
+        <name>Велосипед Micargi Tahiti 24F</name>
+        <price>550</price>
+        <categoryId>174025</categoryId>
+        <url>https://demo.beseller.com/sport/velosipedyi/velosiped_micargi_tahiti_24fe06c0e</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-208773-1.webp</picture>
+        <barcode>208773</barcode>
+      </offer>
+      <offer id="5481">
+        <name>Велосипед Micargi Jetta F</name>
+        <price>600</price>
+        <categoryId>174025</categoryId>
+        <url>https://demo.beseller.com/sport/velosipedyi/velosiped_micargi_jetta_f5cbf16</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-208778-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-208778-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-208778-3.webp</picture>
+        <barcode>208778</barcode>
+      </offer>
+      <offer id="5482">
+        <name>Велосипед AIST 26-210</name>
+        <price>540</price>
+        <categoryId>174025</categoryId>
+        <url>https://demo.beseller.com/sport/velosipedyi/velosiped_aist_26_2109a1e41</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-230691-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-230691-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-230691-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-230691-4.webp</picture>
+        <barcode>230691</barcode>
+      </offer>
+      <offer id="5483">
+        <name>Велосипед Sport Start Colorful 29&amp;#34; (2017)</name>
+        <price>600</price>
+        <categoryId>174025</categoryId>
+        <url>https://demo.beseller.com/sport/velosipedyi/velosiped_sport_start_colorful_29__34___2017e51409</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-310738-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-310738-2.webp</picture>
+        <barcode>310738</barcode>
+      </offer>
+      <offer id="5484">
+        <name>Велосипед Cannondale Trail 2 29 (2015)</name>
+        <price>600</price>
+        <categoryId>174025</categoryId>
+        <url>https://demo.beseller.com/sport/velosipedyi/velosiped_cannondale_trail_2_29__2015b4f5ef</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-352379-1.webp</picture>
+        <barcode>352379</barcode>
+      </offer>
+      <offer id="5485">
+        <name>Велосипед Bravo Tango 26 2021</name>
+        <price>450</price>
+        <categoryId>174025</categoryId>
+        <url>https://demo.beseller.com/sport/velosipedyi/velosiped_bravo_tango_26_2021cdf931</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-560427-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-560427-2.webp</picture>
+        <barcode>560427</barcode>
+      </offer>
+      <offer id="5486">
+        <name>Apache 29 3.0 disc р.21 2021 (черный/серый)</name>
+        <price>610</price>
+        <categoryId>174025</categoryId>
+        <url>https://demo.beseller.com/sport/velosipedyi/apache_29_3_0_disc_r_21_2021__chernyy_seryyfd204e</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-560479-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-560479-2.webp</picture>
+        <barcode>560479</barcode>
+      </offer>
+      <offer id="5487">
+        <name>Велосипед Krakken Krabs 1.0 24 2025 (24, бирюзовый)</name>
+        <price>600</price>
+        <categoryId>174025</categoryId>
+        <url>https://demo.beseller.com/sport/velosipedyi/velosiped_krakken_krabs_1_0_24_2025__24__biryuzovyyb6d513</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-961495-1.webp</picture>
+        <barcode>961495</barcode>
+      </offer>
+      <offer id="5488">
+        <name>Велосипед Stalker Delta 27.2 D р.15 2025 (салатовый)</name>
+        <price>800</price>
+        <categoryId>174025</categoryId>
+        <url>https://demo.beseller.com/sport/velosipedyi/velosiped_stalker_delta_27_2_d_r_15_2025__salatovyy0d58e8</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-961738-1.webp</picture>
+        <barcode>961738</barcode>
+      </offer>
+      <offer id="5491">
+        <name>Культиватор Meccanica Benassi RL 7 H</name>
+        <price>1500</price>
+        <categoryId>174014</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/kultivatoryi-motobloki/kultivator_meccanica_benassi_rl_7_h722649</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-261106-1.webp</picture>
+        <barcode>261106</barcode>
+      </offer>
+      <offer id="5492">
+        <name>Культиватор Hammer RT-50A </name>
+        <price>1410</price>
+        <categoryId>174014</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/kultivatoryi-motobloki/kultivator_hammer_rt_50ae183a7</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-297610-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-297610-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-297610-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-297610-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-297610-5.webp</picture>
+        <barcode>297610</barcode>
+      </offer>
+      <offer id="5493">
+        <name>Культиватор Asilak SL-151</name>
+        <price>1000</price>
+        <categoryId>174014</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/kultivatoryi-motobloki/kultivator_asilak_sl_151874f68</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-380726-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-380726-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-380726-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-380726-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-380726-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-380726-6.webp</picture>
+        <barcode>380726</barcode>
+      </offer>
+      <offer id="5494">
+        <name>Культиватор Sich MB-9 Rato R270</name>
+        <price>950</price>
+        <categoryId>174014</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/kultivatoryi-motobloki/kultivator_sich_mb_9_rato_r27012f381</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-495277-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-495277-2.webp</picture>
+        <barcode>495277</barcode>
+      </offer>
+      <offer id="5495">
+        <name>Культиватор Brado GT-1600SX без колес</name>
+        <price>1350</price>
+        <categoryId>174014</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/kultivatoryi-motobloki/kultivator_brado_gt_1600sx_bez_kolesa8776a</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-621038-1.webp</picture>
+        <barcode>621038</barcode>
+      </offer>
+      <offer id="5496">
+        <name>Культиватор Brado GT-1800SX колеса 19х7-8</name>
+        <price>1250</price>
+        <categoryId>174014</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/kultivatoryi-motobloki/kultivator_brado_gt_1800sx_kolesa_19h7_85c5882</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-621043-1.webp</picture>
+        <barcode>621043</barcode>
+      </offer>
+      <offer id="5497">
+        <name>Культиватор Mantis Kioritz 2T</name>
+        <price>1150</price>
+        <categoryId>174014</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/kultivatoryi-motobloki/kultivator_mantis_kioritz_2t898482</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-621235-1.webp</picture>
+        <barcode>621235</barcode>
+      </offer>
+      <offer id="5498">
+        <name>Культиватор Skiper ET9000</name>
+        <price>900</price>
+        <categoryId>174014</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/kultivatoryi-motobloki/kultivator_skiper_et90007f2f7d</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-814279-1.webp</picture>
+        <barcode>814279</barcode>
+      </offer>
+      <offer id="5499">
+        <name>Культиватор AL-KO Comfort MH 1150 113972</name>
+        <price>1600</price>
+        <categoryId>174014</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/kultivatoryi-motobloki/kultivator_al_ko_comfort_mh_1150_1139724d3b5e</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-860889-1.webp</picture>
+        <barcode>860889</barcode>
+      </offer>
+      <offer id="5501">
+        <name>Триммер аккумуляторный Bosch ART 26 Easytrim Accu (0.600.878.J00)</name>
+        <price>490</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_akkumulyatornyy_bosch_art_26_easytrim_accu__0_600_878_j00d67ae2</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-313157-1.webp</picture>
+        <barcode>313157</barcode>
+      </offer>
+      <offer id="5503">
+        <name>Триммер аккумуляторный Black&amp;#38;Decker GLC3630L20-QW</name>
+        <price>430</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_akkumulyatornyy_black__38_decker_glc3630l20_qw8f6fe5</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-419787-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-419787-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-419787-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-419787-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-419787-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-419787-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-419787-7.webp</picture>
+        <barcode>419787</barcode>
+      </offer>
+      <offer id="5504">
+        <name>Триммер аккумуляторный AL-KO GT 4030 Energy Flex (без АКБ)</name>
+        <price>360</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_akkumulyatornyy_al_ko_gt_4030_energy_flex__bez_akba28891</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-466181-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-466181-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-466181-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-466181-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-466181-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-466181-6.webp</picture>
+        <barcode>466181</barcode>
+      </offer>
+      <offer id="5505">
+        <name>Триммер бензиновый Daewoo DABC 420E</name>
+        <price>450</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_benzinovyy_daewoo_dabc_420e56e40f</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-829803-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-829803-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-829803-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-829803-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-829803-5.webp</picture>
+        <barcode>829803</barcode>
+      </offer>
+      <offer id="5506">
+        <name>Триммер бензиновый P.I.T. MGT-56</name>
+        <price>400</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_benzinovyy_p_i_t__mgt_560e1224</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-831251-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-831251-2.webp</picture>
+        <barcode>831251</barcode>
+      </offer>
+      <offer id="5507">
+        <name>Триммер аккумуляторный Makita UR100DWAE (с 2-мя АКБ)</name>
+        <price>380</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_akkumulyatornyy_makita_ur100dwae__s_2_mya_akb3e8803</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-955523-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-955523-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-955523-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-955523-4.webp</picture>
+        <barcode>955523</barcode>
+      </offer>
+      <offer id="5508">
+        <name>Триммер аккумуляторный Milwaukee M18 BLLT-0 (без АКБ)</name>
+        <price>470</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_akkumulyatornyy_milwaukee_m18_bllt_0__bez_akb479b7d</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-956145-1.webp</picture>
+        <barcode>956145</barcode>
+      </offer>
+      <offer id="5509">
+        <name>Триммер бензиновый Startul Garden SG1025</name>
+        <price>500</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_benzinovyy_startul_garden_sg10254822bd</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-961895-1.webp</picture>
+        <barcode>961895</barcode>
+      </offer>
+      <offer id="5510">
+        <name>Автокресло Coletto Savona Classic/Decor</name>
+        <price>410</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/avtokreslo_coletto_savona_classic_decor37d5f9</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-10.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-11.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-265769-12.webp</picture>
+        <barcode>265769</barcode>
+      </offer>
+      <offer id="5511">
+        <name>Автокресло Lorelli Lifesaver (Beige)</name>
+        <price>400</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/avtokreslo_lorelli_lifesaver__beiged15e74</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-290345-1.webp</picture>
+        <barcode>290345</barcode>
+      </offer>
+      <offer id="5512">
+        <name>Автокресло Lorelli Magic+SPS Premium (grey stars)</name>
+        <price>260</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/avtokreslo_lorelli_magic_sps_premium__grey_starsd04649</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-298111-1.webp</picture>
+        <barcode>298111</barcode>
+      </offer>
+      <offer id="5513">
+        <name>Автокресло Panda Baby Dreams (черный)</name>
+        <price>290</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/avtokreslo_panda_baby_dreams__chernyya2e7f7</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630921-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-630921-2.webp</picture>
+        <barcode>630921</barcode>
+      </offer>
+      <offer id="5514">
+        <name>Kiddy Cruiser USA (mumbai)</name>
+        <price>390</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/kiddy_cruiser_usa__mumbaic99b53</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-690845-1.webp</picture>
+        <barcode>690845</barcode>
+      </offer>
+      <offer id="5515">
+        <name>Babyhit UniGuard (красный)</name>
+        <price>360</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/babyhit_uniguard__krasnyy775ea1</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-690860-1.webp</picture>
+        <barcode>690860</barcode>
+      </offer>
+      <offer id="5516">
+        <name>Автокресло Farfello Х30 (велюр, серый/черный)</name>
+        <price>300</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/avtokreslo_farfello_h30__velyur__seryy_chernyyae0cd6</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-725230-1.webp</picture>
+        <barcode>725230</barcode>
+      </offer>
+      <offer id="5517">
+        <name>Автокресло Concord Transformer iTech (whale blue)</name>
+        <price>250</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/avtokreslo_concord_transformer_itech__whale_blue2bccbf</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-725441-1.webp</picture>
+        <barcode>725441</barcode>
+      </offer>
+      <offer id="5518">
+        <name>Автокресло Farfello KS-2150/a (Black)</name>
+        <price>330</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/avtokreslo_farfello_ks_2150_a__black529cec</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-816950-1.webp</picture>
+        <barcode>816950</barcode>
+      </offer>
+      <offer id="5519">
+        <name>Автокресло Nuovita Maczione NiS2-1 (синий)</name>
+        <price>330</price>
+        <categoryId>174022</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/avtokresla/avtokreslo_nuovita_maczione_nis2_1__siniy2aa9ef</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819274-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819274-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819274-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819274-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819274-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819274-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819274-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819274-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-819274-9.webp</picture>
+        <barcode>819274</barcode>
+      </offer>
+      <offer id="5521">
+        <name>Универсальная коляска Aimile Original New Silver NDS-1 (зеленый)</name>
+        <price>810</price>
+        <categoryId>174023</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/kolyaski/universalnaya_kolyaska_aimile_original_new_silver_nds_1__zelenyyaae485</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-669168-1.webp</picture>
+        <barcode>669168</barcode>
+      </offer>
+      <offer id="5523">
+        <name>Детская прогулочная коляска Cosatto Supa 3 (unicorn land)</name>
+        <price>520</price>
+        <categoryId>174023</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/kolyaski/detskaya_progulochnaya_kolyaska_cosatto_supa_3__unicorn_landfc010e</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-750863-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-750863-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-750863-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-750863-4.webp</picture>
+        <barcode>750863</barcode>
+      </offer>
+      <offer id="5524">
+        <name>Детская прогулочная коляска MOWbaby Cross Gold / RA089 (beige)</name>
+        <price>490</price>
+        <categoryId>174023</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/kolyaski/detskaya_progulochnaya_kolyaska_mowbaby_cross_gold___ra089__beige887655</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-751461-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-751461-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-751461-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-751461-4.webp</picture>
+        <barcode>751461</barcode>
+      </offer>
+      <offer id="5526">
+        <name>Детская прогулочная коляска Lorelli Myla (Arctic Blue)</name>
+        <price>680</price>
+        <categoryId>174023</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/kolyaski/detskaya_progulochnaya_kolyaska_lorelli_myla__arctic_blue123e53</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-842466-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-842466-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-842466-3.webp</picture>
+        <barcode>842466</barcode>
+      </offer>
+      <offer id="5528">
+        <name>Детская прогулочная коляска Chicco Goody Plus (graphite)</name>
+        <price>500</price>
+        <categoryId>174023</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/kolyaski/detskaya_progulochnaya_kolyaska_chicco_goody_plus__graphite45ef97</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-900882-1.webp</picture>
+        <barcode>900882</barcode>
+      </offer>
+      <offer id="5530">
+        <name>Автомагнитола Kenwood KDC-4547UW</name>
+        <price>280</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_kenwood_kdc_4547uwa555d3</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-91081-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-91081-2.webp</picture>
+        <barcode>91081</barcode>
+      </offer>
+      <offer id="5531">
+        <name>Автомагнитола Sony DSX-A30E</name>
+        <price>270</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_sony_dsx_a30e0b86b3</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-152123-1.webp</picture>
+        <barcode>152123</barcode>
+      </offer>
+      <offer id="5532">
+        <name>Автомагнитола Sony CDX-GT565UV</name>
+        <price>180</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_sony_cdx_gt565uvbff681</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-152128-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-152128-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-152128-3.webp</picture>
+        <barcode>152128</barcode>
+      </offer>
+      <offer id="5533">
+        <name>Автомагнитола ACV AD-1010</name>
+        <price>160</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_acv_ad_10106827d1</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-348987-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-348987-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-348987-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-348987-4.webp</picture>
+        <barcode>348987</barcode>
+      </offer>
+      <offer id="5534">
+        <name>Автомагнитола Soundmax SM-CCR3072F</name>
+        <price>260</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_soundmax_sm_ccr3072fd4f9a3</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432078-1.webp</picture>
+        <barcode>432078</barcode>
+      </offer>
+      <offer id="5535">
+        <name>Автомагнитола Soundmax SM-CCR3184FB</name>
+        <price>250</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_soundmax_sm_ccr3184fbe08dd5</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-491576-1.webp</picture>
+        <barcode>491576</barcode>
+      </offer>
+      <offer id="5536">
+        <name>Автомагнитола Velas VCU-502</name>
+        <price>200</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_velas_vcu_5026dd1de</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-491595-1.webp</picture>
+        <barcode>491595</barcode>
+      </offer>
+      <offer id="5537">
+        <name>Автомагнитола Premiera MVH-150</name>
+        <price>170</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_premiera_mvh_150c59422</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-707267-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-707267-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-707267-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-707267-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-707267-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-707267-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-707267-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-707267-8.webp</picture>
+        <barcode>707267</barcode>
+      </offer>
+      <offer id="5538">
+        <name>Автомагнитола Kenwood KDC-BT660U</name>
+        <price>300</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_kenwood_kdc_bt660u9363ef</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-737863-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-737863-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-737863-3.webp</picture>
+        <barcode>737863</barcode>
+      </offer>
+      <offer id="5539">
+        <name>Автомагнитола ACV AD-9006 DSP</name>
+        <price>230</price>
+        <categoryId>174018</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomagnitolyi/avtomagnitola_acv_ad_9006_dsp5b1b0f</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-946925-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-946925-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-946925-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-946925-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-946925-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-946925-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-946925-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-946925-8.webp</picture>
+        <barcode>946925</barcode>
+      </offer>
+      <offer id="5540">
+        <name>Автосигнализация A.P.S. 2700</name>
+        <price>440</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_a_p_s__2700b62a66</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-147769-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-147769-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-147769-3.webp</picture>
+        <barcode>147769</barcode>
+      </offer>
+      <offer id="5541">
+        <name>Автосигнализация Alligator M-2200</name>
+        <price>420</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_alligator_m_22007d9eed</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-151398-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-151398-2.webp</picture>
+        <barcode>151398</barcode>
+      </offer>
+      <offer id="5542">
+        <name>Автосигнализация Alligator SP-30</name>
+        <price>280</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_alligator_sp_30509496</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-196423-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-196423-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-196423-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-196423-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-196423-5.webp</picture>
+        <barcode>196423</barcode>
+      </offer>
+      <offer id="5543">
+        <name>Автосигнализация Cenmax Vigilant ST11-D</name>
+        <price>250</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_cenmax_vigilant_st11_d4f4e6a</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-199017-1.webp</picture>
+        <barcode>199017</barcode>
+      </offer>
+      <offer id="5544">
+        <name>Автосигнализация Cenmax A-700</name>
+        <price>400</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_cenmax_a_700f64b9c</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-224119-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-224119-2.webp</picture>
+        <barcode>224119</barcode>
+      </offer>
+      <offer id="5545">
+        <name>Автосигнализация Pandora DX-50</name>
+        <price>380</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_pandora_dx_500e879e</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-305875-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-305875-2.webp</picture>
+        <barcode>305875</barcode>
+      </offer>
+      <offer id="5546">
+        <name>Автосигнализация Centurion 7</name>
+        <price>400</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_centurion_722ead1</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432460-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432460-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432460-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432460-4.webp</picture>
+        <barcode>432460</barcode>
+      </offer>
+      <offer id="5547">
+        <name>Автосигнализация Pandora DXL 4710</name>
+        <price>380</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_pandora_dxl_4710dbf9a3</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432683-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432683-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432683-3.webp</picture>
+        <barcode>432683</barcode>
+      </offer>
+      <offer id="5548">
+        <name>Автосигнализация Pandect X-3190</name>
+        <price>320</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_pandect_x_31904dfe41</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432694-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-432694-2.webp</picture>
+        <barcode>432694</barcode>
+      </offer>
+      <offer id="5549">
+        <name>Автосигнализация Pandora VX 4G GPS v2</name>
+        <price>350</price>
+        <categoryId>174019</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtosignalizacii/avtosignalizaciya_pandora_vx_4g_gps_v2b5842c</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950633-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950633-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950633-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950633-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950633-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950633-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950633-7.webp</picture>
+        <barcode>950633</barcode>
+      </offer>
+      <offer id="5552">
+        <name>Аккумулятор A-Mega Premium (190Ah)</name>
+        <price>400</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_a_mega_premium__190ahc82906</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-190870-1.webp</picture>
+        <barcode>190870</barcode>
+      </offer>
+      <offer id="5553">
+        <name>Аккумулятор Bosch S4 021 (45Ah)</name>
+        <price>350</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_bosch_s4_021__45ahc0535a</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-301923-1.webp</picture>
+        <barcode>301923</barcode>
+      </offer>
+      <offer id="5554">
+        <name>Аккумулятор Bosch S4 026 (70Ah)</name>
+        <price>380</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_bosch_s4_026__70ah61a9fe</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-301929-1.webp</picture>
+        <barcode>301929</barcode>
+      </offer>
+      <offer id="5555">
+        <name>Аккумулятор Tenax HighLine 548405 (68Ah)</name>
+        <price>5650</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_tenax_highline_548405__68ah74d93c</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-375332-1.webp</picture>
+        <barcode>375332</barcode>
+      </offer>
+      <offer id="5556">
+        <name>Аккумулятор ISTA OBERON OPTIMA 6СТ-60E (60Ah)</name>
+        <price>450</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_ista_oberon_optima_6st_60e__60ah1c8819</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-552429-1.webp</picture>
+        <barcode>552429</barcode>
+      </offer>
+      <offer id="5557">
+        <name>Аккумулятор Kainar JR (100Ah)</name>
+        <price>390</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_kainar_jr__100aha79f3a</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-563170-1.webp</picture>
+        <barcode>563170</barcode>
+      </offer>
+      <offer id="5558">
+        <name>Аккумулятор Tesla Premium Energy 90 R low (90Ah)</name>
+        <price>630</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_tesla_premium_energy_90_r_low__90ah378085</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-568554-1.webp</picture>
+        <barcode>568554</barcode>
+      </offer>
+      <offer id="5559">
+        <name>Аккумулятор Kainar Asia 65 JL (65Ah)</name>
+        <price>500</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_kainar_asia_65_jl__65ahbe7e5e</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-852279-1.webp</picture>
+        <barcode>852279</barcode>
+      </offer>
+      <offer id="5564">
+        <name>Видеокарта Asus ROG Strix GeForce RTX 3080 Ti OC Edition 12GB GDDR6X</name>
+        <price>3000</price>
+        <categoryId>174029</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/videokartyi/videokarta_asus_rog_strix_geforce_rtx_3080_ti_oc_edition_12gb_gddr6x8b80ad</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586688-10.webp</picture>
+        <barcode>586688</barcode>
+      </offer>
+      <offer id="5565">
+        <name>Видеокарта EVGA GeForce RTX 3080 Ti FTW3 Ultra Gaming 12GB GDDR6X 12G-P5-3967-KR</name>
+        <price>2500</price>
+        <categoryId>174029</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/videokartyi/videokarta_evga_geforce_rtx_3080_ti_ftw3_ultra_gaming_12gb_gddr6x_12g_p5_3967_kr32e0b5</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586711-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586711-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586711-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586711-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586711-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586711-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586711-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-586711-8.webp</picture>
+        <barcode>586711</barcode>
+      </offer>
+      <offer id="5566">
+        <name>Видеокарта Manli RTX 3070 Gallardo (M-NRTX3070G/6RGHPPPV2-M2502) LHR</name>
+        <price>2500</price>
+        <categoryId>174029</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/videokartyi/videokarta_manli_rtx_3070_gallardo__m_nrtx3070g_6rghpppv2_m2502__lhref8a1f</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-610376-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-610376-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-610376-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-610376-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-610376-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-610376-6.webp</picture>
+        <barcode>610376</barcode>
+      </offer>
+      <offer id="5567">
+        <name>Видеокарта ASUS Radeon RX 7900 XT 20GB GDDR6 RX7900XT-20G</name>
+        <price>2200</price>
+        <categoryId>174029</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/videokartyi/videokarta_asus_radeon_rx_7900_xt_20gb_gddr6_rx7900xt_20gc02021</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-738031-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-738031-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-738031-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-738031-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-738031-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-738031-6.webp</picture>
+        <barcode>738031</barcode>
+      </offer>
+      <offer id="5568">
+        <name>Видеокарта Maxsun GeForce RTX 4070 iCraft OC 12G</name>
+        <price>2199</price>
+        <categoryId>174029</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/videokartyi/videokarta_maxsun_geforce_rtx_4070_icraft_oc_12gb57f0d</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788768-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788768-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788768-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788768-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788768-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788768-6.webp</picture>
+        <barcode>788768</barcode>
+      </offer>
+      <offer id="5569">
+        <name>Видеокарта Maxsun GeForce RTX 4060 iCraft OC 8G Limited X2</name>
+        <price>2500</price>
+        <categoryId>174029</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/videokartyi/videokarta_maxsun_geforce_rtx_4060_icraft_oc_8g_limited_x2625693</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788771-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788771-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788771-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788771-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788771-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-788771-6.webp</picture>
+        <barcode>788771</barcode>
+      </offer>
+      <offer id="5570">
+        <name>Кресло King Style Drake</name>
+        <price>850</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/kreslo_king_style_drake0ad8a1</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-241731-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-241731-2.webp</picture>
+        <barcode>241731</barcode>
+      </offer>
+      <offer id="5571">
+        <name>Геймерское кресло Red Square RSQ-50016 Lux Red</name>
+        <price>800</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/geymerskoe_kreslo_red_square_rsq_50016_lux_red986e12</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-324825-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-324825-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-324825-3.webp</picture>
+        <barcode>324825</barcode>
+      </offer>
+      <offer id="5572">
+        <name>Кресло Evolution Racer</name>
+        <price>500</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/kreslo_evolution_racer4daf8c</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683669-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683669-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683669-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683669-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683669-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683669-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683669-7.webp</picture>
+        <barcode>683669</barcode>
+      </offer>
+      <offer id="5573">
+        <name>Кресло GameLab Monos Black (GL-500)</name>
+        <price>450</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/kreslo_gamelab_monos_black__gl_50040cd20</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683671-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683671-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683671-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683671-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683671-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683671-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-683671-7.webp</picture>
+        <barcode>683671</barcode>
+      </offer>
+      <offer id="5574">
+        <name>Кресло King Style KP-11 (темно-коричневый)</name>
+        <price>700</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/kreslo_king_style_kp_11__temno_korichnevyyb6e4f9</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-684902-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-684902-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-684902-3.webp</picture>
+        <barcode>684902</barcode>
+      </offer>
+      <offer id="5575">
+        <name>Кресло AksHome King KF (коричневый бриллиант)</name>
+        <price>600</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/kreslo_akshome_king_kf__korichnevyy_brilliantdf4f9a</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-804666-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-804666-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-804666-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-804666-4.webp</picture>
+        <barcode>804666</barcode>
+      </offer>
+      <offer id="5576">
+        <name>Кресло Brabix Quadro EX-524 (черный)</name>
+        <price>600</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/kreslo_brabix_quadro_ex_524__chernyy28f0a9</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-854731-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-854731-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-854731-3.webp</picture>
+        <barcode>854731</barcode>
+      </offer>
+      <offer id="5577">
+        <name>Геймерское кресло AKRacing Core EX SE</name>
+        <price>650</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/geymerskoe_kreslo_akracing_core_ex_se79f3f2</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931544-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931544-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931544-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931544-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931544-5.webp</picture>
+        <barcode>931544</barcode>
+      </offer>
+      <offer id="5578">
+        <name>Геймерское кресло byRoom Game Nerf GF-8066 -BRW (черный/красный/белый)</name>
+        <price>550</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/geymerskoe_kreslo_byroom_game_nerf_gf_8066__brw__chernyy_krasnyy_belyy41443b</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-943927-1.webp</picture>
+        <barcode>943927</barcode>
+      </offer>
+      <offer id="5579">
+        <name>Игровое кресло Calviano Asti Ultimato (dark grey fabric)</name>
+        <price>900</price>
+        <categoryId>174028</categoryId>
+        <url>https://demo.beseller.com/mebel/ofisnyie-kresla-i-stulya/igrovoe_kreslo_calviano_asti_ultimato__dark_grey_fabric652da8</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-966016-1.webp</picture>
+        <barcode>966016</barcode>
+      </offer>
+      <offer id="5580">
+        <name>Детский матрас BamBola Coir Nature 6</name>
+        <price>550</price>
+        <categoryId>174030</categoryId>
+        <url>https://demo.beseller.com/mebel/matrasyi/detskiy_matras_bambola_coir_nature_6fa051b</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-243681-1.webp</picture>
+        <barcode>243681</barcode>
+      </offer>
+      <offer id="5581">
+        <name>Детский матрас BamBola ROUND HOLO + KOKOS 8</name>
+        <price>500</price>
+        <categoryId>174030</categoryId>
+        <url>https://demo.beseller.com/mebel/matrasyi/detskiy_matras_bambola_round_holo___kokos_8b7492c</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-315069-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-315069-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-315069-3.webp</picture>
+        <barcode>315069</barcode>
+      </offer>
+      <offer id="5582">
+        <name>Матрас Laura Platinum К2</name>
+        <price>440</price>
+        <categoryId>174030</categoryId>
+        <url>https://demo.beseller.com/mebel/matrasyi/matras_laura_platinum_k2c1b16e</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-761736-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-761736-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-761736-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-761736-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-761736-5.webp</picture>
+        <barcode>761736</barcode>
+      </offer>
+      <offer id="5583">
+        <name>Матрас Территория сна Concept 02 80x195</name>
+        <price>580</price>
+        <categoryId>174030</categoryId>
+        <url>https://demo.beseller.com/mebel/matrasyi/matras_territoriya_sna_concept_02_80x195d9cb6d</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-786289-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-786289-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-786289-3.webp</picture>
+        <barcode>786289</barcode>
+      </offer>
+      <offer id="5584">
+        <name>Матрас Территория сна Concept 03 180x195</name>
+        <price>440</price>
+        <categoryId>174030</categoryId>
+        <url>https://demo.beseller.com/mebel/matrasyi/matras_territoriya_sna_concept_03_180x1954439b3</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-786309-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-786309-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-786309-3.webp</picture>
+        <barcode>786309</barcode>
+      </offer>
+      <offer id="5585">
+        <name>Детский матрас Askona Moms Love Baby 70x165</name>
+        <price>460</price>
+        <categoryId>174030</categoryId>
+        <url>https://demo.beseller.com/mebel/matrasyi/detskiy_matras_askona_moms_love_baby_70x1659d08ca</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-10.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869243-11.webp</picture>
+        <barcode>869243</barcode>
+      </offer>
+      <offer id="5586">
+        <name>Детский матрас Askona Moms Love Young 80x160</name>
+        <price>440</price>
+        <categoryId>174030</categoryId>
+        <url>https://demo.beseller.com/mebel/matrasyi/detskiy_matras_askona_moms_love_young_80x1607d54da</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-869275-10.webp</picture>
+        <barcode>869275</barcode>
+      </offer>
+      <offer id="5587">
+        <name>Матрас Mr. Mattress Dias L 90x190</name>
+        <price>450</price>
+        <categoryId>174030</categoryId>
+        <url>https://demo.beseller.com/mebel/matrasyi/matras_mr__mattress_dias_l_90x19050d3bb</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931234-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931234-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931234-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931234-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-931234-5.webp</picture>
+        <barcode>931234</barcode>
+      </offer>
+      <offer id="5588">
+        <name>Матрас Mr. Mattress Duet 120x200</name>
+        <price>380</price>
+        <categoryId>174030</categoryId>
+        <url>https://demo.beseller.com/mebel/matrasyi/matras_mr__mattress_duet_120x2005b65f8</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950733-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950733-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950733-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950733-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-950733-5.webp</picture>
+        <barcode>950733</barcode>
+      </offer>
+      <offer id="5590">
+        <name>Планшет Xiaomi Redmi Pad 6GB/128GB китайская версия (графитовый серый)</name>
+        <price>700</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/planshet_xiaomi_redmi_pad_6gb_128gb_kitayskaya_versiya__grafitovyy_seryy32f4c3</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-734270-1.webp</picture>
+        <barcode>734270</barcode>
+      </offer>
+      <offer id="5591">
+        <name>Планшет Xiaomi Redmi Pad Pro 5G 6GB/128GB международная версия (серый)</name>
+        <price>1150</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/planshet_xiaomi_redmi_pad_pro_5g_6gb_128gb_mezhdunarodnaya_versiya__seryybd924b</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-854741-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-854741-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-854741-3.webp</picture>
+        <barcode>854741</barcode>
+      </offer>
+      <offer id="5592">
+        <name>Планшет Xiaomi Redmi Pad SE 8.7 4GB/128GB (зеленый)</name>
+        <price>750</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/planshet_xiaomi_redmi_pad_se_8_7_4gb_128gb__zelenyyefe396</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-867547-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-867547-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-867547-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-867547-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-867547-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-867547-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-867547-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-867547-8.webp</picture>
+        <barcode>867547</barcode>
+      </offer>
+      <offer id="5595">
+        <name>Универсальная коляска Verdi Optima (3 в 1, 9)</name>
+        <price>750</price>
+        <categoryId>174023</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/kolyaski/universalnaya_kolyaska_verdi_optima__3_v_1__9a30e27</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-498438-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-498438-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-498438-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-498438-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-498438-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-498438-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-498438-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-498438-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-498438-9.webp</picture>
+        <barcode>498438</barcode>
+      </offer>
+      <offer id="5597">
+        <name>Смартфон Apple iPhone 15 128GB (зеленый)</name>
+        <price>2549</price>
+        <categoryId>174003</categoryId>
+        <url>https://demo.beseller.com/smartfonyi-tv-i-elektronika/smartfonyi/smartfon_apple_iphone_15_128gb__zelenyy85f2ef</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-756785-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-756785-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-756785-3.webp</picture>
+        <barcode>756785</barcode>
+      </offer>
+      <offer id="5598">
+        <name>Видеокарта MSI GeForce RTX 5070 Ti 16G Gaming Trio OC Plus</name>
+        <price>3999</price>
+        <categoryId>174029</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/videokartyi/videokarta_msi_geforce_rtx_5070_ti_16g_gaming_trio_oc_plus49f303</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-929961-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-929961-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-929961-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-929961-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-929961-5.webp</picture>
+        <barcode>929961</barcode>
+      </offer>
+      <offer id="5600">
+        <name>Видеокарта MSI GeForce RTX 5070 12G Vanguard SOC</name>
+        <price>2850</price>
+        <categoryId>174029</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/videokartyi/videokarta_msi_geforce_rtx_5070_12g_vanguard_soca1d553</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-949617-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-949617-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-949617-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-949617-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-949617-5.webp</picture>
+        <barcode>949617</barcode>
+      </offer>
+      <offer id="5603">
+        <name>Видеокарта MSI GeForce RTX 5070 Ti 16G Ventus 3X OC</name>
+        <price>3100</price>
+        <categoryId>174029</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/videokartyi/videokarta_msi_geforce_rtx_5070_ti_16g_ventus_3x_oc9056fe</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934901-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934901-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934901-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934901-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934901-5.webp</picture>
+        <barcode>934901</barcode>
+      </offer>
+      <offer id="5605">
+        <name>Ноутбук Apple MacBook Air 13&amp;#34; M4 2025 MC6T4</name>
+        <price>3499</price>
+        <categoryId>174006</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/noutbuki/noutbuk_apple_macbook_air_13__34__m4_2025_mc6t45b3f6a</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934119-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934119-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934119-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934119-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934119-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-934119-6.webp</picture>
+        <barcode>934119</barcode>
+      </offer>
+      <offer id="5608">
+        <name>Планшет Apple iPad Pro 13&amp;#34; 2024 5G 512GB (серебристый)</name>
+        <price>3570</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/planshet_apple_ipad_pro_13__34__2024_5g_512gb__serebristyy526988</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-828486-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-828486-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-828486-3.webp</picture>
+        <barcode>828486</barcode>
+      </offer>
+      <offer id="5609">
+        <name>Планшет Apple iPad Pro 13&amp;#34; 2024 5G 2TB (черный космос)</name>
+        <price>3570</price>
+        <categoryId>174007</categoryId>
+        <url>https://demo.beseller.com/kompyuteryi-i-periferiya/planshetyi/planshet_apple_ipad_pro_13__34__2024_5g_2tb__chernyy_kosmos421299</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-828500-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-828500-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-828500-3.webp</picture>
+        <barcode>828500</barcode>
+      </offer>
+      <offer id="5611">
+        <name>Коляска-люлька Pituso Leticia Classic (511/CL, chocolate/brown metalic)</name>
+        <price>1250</price>
+        <categoryId>174023</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/kolyaski/kolyaska_lyulka_pituso_leticia_classic__511_cl__chocolate_brown_metalicbfe0e4</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-748662-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-748662-2.webp</picture>
+        <barcode>748662</barcode>
+      </offer>
+      <offer id="5612">
+        <name>Коляска-люлька Pituso Leticia Classic (404/CL, camel)</name>
+        <price>1290</price>
+        <categoryId>174023</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/kolyaski/kolyaska_lyulka_pituso_leticia_classic__404_cl__camel5faff8</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-794413-1.webp</picture>
+        <barcode>794413</barcode>
+      </offer>
+      <offer id="5614">
+        <name>Триммер аккумуляторный Makita DUR181Z (без АКБ)</name>
+        <price>320</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_akkumulyatornyy_makita_dur181z__bez_akbfd2a39</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-318261-1.webp</picture>
+        <barcode>318261</barcode>
+      </offer>
+      <offer id="5615">
+        <name>Триммер бензиновый Patriot PT 595</name>
+        <price>1000</price>
+        <categoryId>174015</categoryId>
+        <url>https://demo.beseller.com/dom-i-sad/trimmeryi-benzokosyi/trimmer_benzinovyy_patriot_pt_5957f81a3</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-646687-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-646687-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-646687-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-646687-4.webp</picture>
+        <barcode>646687</barcode>
+      </offer>
+      <offer id="5616">
+        <name>Аккумулятор Exide Excell EB740 R+ (74Ah)</name>
+        <price>440</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_exide_excell_eb740_r___74ahbe17bc</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-165548-1.webp</picture>
+        <barcode>165548</barcode>
+      </offer>
+      <offer id="5617">
+        <name>Аккумулятор VARTA Silver Dynamic AGM 570901076 (70Ah)</name>
+        <price>650</price>
+        <categoryId>174020</categoryId>
+        <url>https://demo.beseller.com/avto-i-moto/avtomobilnyie-akkumulyatoryi/akkumulyator_varta_silver_dynamic_agm_570901076__70ah0705e5</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-375399-1.webp</picture>
+        <barcode>375399</barcode>
+      </offer>
+      <offer id="5618">
+        <name>Детская прогулочная коляска Amarobaby Somnium (бежевый)</name>
+        <price>700</price>
+        <categoryId>174023</categoryId>
+        <url>https://demo.beseller.com/tovaryi-dlya-detej/kolyaski/detskaya_progulochnaya_kolyaska_amarobaby_somnium__bezhevyy29ae9a</url>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-1.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-2.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-3.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-4.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-5.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-6.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-7.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-8.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-9.webp</picture>
+        <picture>https://demo.beseller.com/pics/items/b2b-shopby-932025-10.webp</picture>
+        <barcode>932025</barcode>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
