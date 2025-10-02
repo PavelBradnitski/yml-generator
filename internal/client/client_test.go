@@ -23,7 +23,10 @@ func TestFetchProducts_Success(t *testing.T) {
 	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Content-Type", "application/json")
 		w.WriteHeader(http.StatusOK)
-		w.Write([]byte(mockResponseJSON))
+		_, err := w.Write([]byte(mockResponseJSON))
+		if err != nil {
+			t.Fatalf("Не удалось записать мок-ответ: %v", err)
+		}
 	}))
 	defer server.Close()
 

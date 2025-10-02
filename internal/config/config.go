@@ -18,7 +18,10 @@ type Config struct {
 // Load загружает конфигурацию из .env файла и переменных окружения.
 func Load() (*Config, error) {
 
-	godotenv.Load()
+	err := godotenv.Load()
+	if err != nil {
+		return nil, errors.New("ошибка при загрузке .env файла")
+	}
 
 	cfg := &Config{
 		BaseURL:        os.Getenv("BASE_URL"),
