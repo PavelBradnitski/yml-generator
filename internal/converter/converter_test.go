@@ -3,11 +3,18 @@ package converter
 import (
 	"testing"
 
-	"github.com/PavelBradnitski/yml-generator/internal/models" // ИЗМЕНЕНИЕ: Правильный путь импорта
+	"github.com/PavelBradnitski/yml-generator/internal/config"
+	"github.com/PavelBradnitski/yml-generator/internal/models"
 )
 
 func TestBuildYMLCatalog(t *testing.T) {
 	// 1. Arrange (Подготовка): Создаем входные данные для теста
+	cfg := &config.Config{
+		BaseURL:        "https://demo.beseller.com",
+		APIURL:         "https://demo.beseller.com/graphql",
+		APIToken:       "c2b05afc61b8d243e0c10b46a677cbf4eb98d09c",
+		OutputFilename: "shop.yml",
+	}
 	gqlCategories := []models.GQLCategory{
 		{ID: 1, Name: "Главная"},
 	}
@@ -37,7 +44,7 @@ func TestBuildYMLCatalog(t *testing.T) {
 	}
 
 	// 2. Act (Действие): Вызываем функцию, которую тестируем
-	result := BuildYMLCatalog(gqlCategories, gqlProducts)
+	result := BuildYMLCatalog(gqlCategories, gqlProducts, cfg)
 
 	// 3. Assert (Проверка): Проверяем, что результат соответствует ожиданиям
 	if len(result.Shop.Offers) != 2 {
