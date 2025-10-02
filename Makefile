@@ -1,13 +1,13 @@
 .PHONY: build test lint run
 
 build:
-    go build -o yml-generator ./cmd/main.go
+	go build -o yml-generator ./cmd/main.go
 
 test:
-    go test -v ./...
+	go test -v ./...
 
 lint:
-    go vet ./...
+	go vet ./...
 
 run: build
-    ./yml-generator
+	./yml-generator
