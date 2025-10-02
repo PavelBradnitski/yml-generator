@@ -3,38 +3,66 @@ package main
 import (
 	"fmt"
 	"log"
+	"sync"
 
 	"github.com/PavelBradnitski/yml-generator/internal/client"
+	"github.com/PavelBradnitski/yml-generator/internal/config"
 	"github.com/PavelBradnitski/yml-generator/internal/converter"
 	"github.com/PavelBradnitski/yml-generator/internal/generator"
+	"github.com/PavelBradnitski/yml-generator/internal/models"
 )
 
-const apiURL = "https://demo.beseller.com/graphql?token=c2b05afc61b8d243e0c10b46a677cbf4eb98d09c"
-
 func main() {
-	// 1. Получение данных
+	cfg, err := config.Load()
+	if err != nil {
+		log.Fatalf("Ошибка при загрузке конфигурации: %s", err)
+	}
+
+	apiURL := fmt.Sprintf("%s?token=%s", cfg.APIURL, cfg.APIToken)
 	apiClient := client.NewClient(apiURL)
 
-	fmt.Println("Получение категорий...")
-	gqlCategories, err := apiClient.FetchCategories()
-	if err != nil {
-		log.Fatalf("Не удалось получить категории: %s", err)
-	}
-	fmt.Printf("Получено %d категорий.\n", len(gqlCategories))
+	var wg sync.WaitGroup
+	var errCat, errProd error
+	var gqlCategories []models.GQLCategory
+	var gqlProducts []models.GQLProduct
+	fmt.Println("Запуск получения данных...")
 
-	fmt.Println("Получение товаров...")
-	gqlProducts, err := apiClient.FetchProducts()
-	if err != nil {
-		log.Fatalf("Не удалось получить товары: %s", err)
-	}
-	fmt.Printf("Получено %d товаров для YML файла.\n", len(gqlProducts))
+	wg.Add(2)
 
-	// ... остальной код без изменений ...
+	// Горутина для получения категорий
+	go func() {
+		defer wg.Done()
+		fmt.Println("Получение категорий...")
+		gqlCategories, errCat = apiClient.FetchCategories()
+		if errCat == nil {
+			fmt.Printf("Получено %d категорий.\n", len(gqlCategories))
+		}
+	}()
+
+	// Горутина для получения товаров
+	go func() {
+		defer wg.Done()
+		fmt.Println("Получение товаров...")
+		gqlProducts, errProd = apiClient.FetchProducts()
+		if errProd == nil {
+			fmt.Printf("Получено %d товаров для YML файла.\n", len(gqlProducts))
+		}
+	}()
+
+	wg.Wait()
+
+	if errCat != nil {
+		log.Fatalf("Не удалось получить категории: %s", errCat)
+	}
+	if errProd != nil {
+		log.Fatalf("Не удалось получить товары: %s", errProd)
+	}
+
 	fmt.Println("Формирование YML структуры...")
-	catalog := converter.BuildYMLCatalog(gqlCategories, gqlProducts)
+	catalog := converter.BuildYMLCatalog(gqlCategories, gqlProducts, cfg)
 
-	fmt.Println("Запись в файл shop.yml...")
-	err = generator.WriteYMLFile(catalog, "shop.yml")
+	fmt.Printf("Запись в файл %s...\n", cfg.OutputFilename)
+	err = generator.WriteYMLFile(catalog, cfg.OutputFilename)
 	if err != nil {
 		log.Fatalf("Не удалось создать YML файл: %s", err)
 	}
