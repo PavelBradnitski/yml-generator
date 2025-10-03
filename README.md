@@ -23,9 +23,13 @@
 │   ├── generator/      # Логика записи YML-структуры в файл
 │   └── models/         # Определения всех структур данных (для API и YML)
 ├── .github/workflows/  # Для автоматизации CI/CD с помощью GitHub Actions
+├── .env-example
+├── .gitignore
+├── Makefile 
+├── README.md 
 ├── go.mod
 ├── go.sum
-└── README.md
+└── shop.yml            # Пример итогового файла 
 ```
 
 ## Начало работы
